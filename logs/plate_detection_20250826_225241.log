@@ -1,0 +1,11 @@
+2025-08-26 22:52:41,031 - INFO - License Plate Detection System initialized
+2025-08-26 22:52:41,031 - INFO - Loading YOLO model...
+2025-08-26 22:52:41,378 - INFO - YOLO model loaded: best.pt
+2025-08-26 22:52:41,378 - INFO - Initializing OCR reader...
+2025-08-26 22:52:41,380 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-08-26 22:52:43,666 - INFO - OCR reader initialized successfully
+2025-08-26 22:52:43,668 - INFO - Processing single image: test.webp
+2025-08-26 22:52:44,392 - INFO - Detected 1 plates in test.webp
+2025-08-26 22:52:44,495 - INFO - Plate 1: 1MAPA5627 (Confidence: 0.21)
+2025-08-26 22:52:44,505 - INFO - Report saved to: runs\plate_detections\processing_report_20250826_225244.json
+2025-08-26 22:52:44,505 - INFO - Processing completed successfully!

@@ -1,0 +1,11 @@
+2025-08-26 22:38:17,216 - INFO - License Plate Detection System initialized
+2025-08-26 22:38:17,216 - INFO - Loading YOLO model...
+2025-08-26 22:38:17,577 - INFO - YOLO model loaded: best.pt
+2025-08-26 22:38:17,578 - INFO - Initializing OCR reader...
+2025-08-26 22:38:17,578 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-08-26 22:38:19,832 - INFO - OCR reader initialized successfully
+2025-08-26 22:38:19,833 - INFO - Processing video file: demo.mp4
+2025-08-26 22:38:19,872 - INFO - Processing video: demo.mp4
+2025-08-26 22:38:19,873 - INFO - FPS: 30.0, Total frames: 631, Duration: 21.03s
+2025-08-26 22:39:33,317 - INFO - Report saved to: runs\plate_detections\processing_report_20250826_223933.json
+2025-08-26 22:39:33,321 - INFO - Processing completed successfully!

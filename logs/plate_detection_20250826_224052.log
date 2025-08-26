@@ -1,0 +1,10 @@
+2025-08-26 22:40:52,001 - INFO - License Plate Detection System initialized
+2025-08-26 22:40:52,001 - INFO - Loading YOLO model...
+2025-08-26 22:40:52,438 - INFO - YOLO model loaded: best.pt
+2025-08-26 22:40:52,439 - INFO - Initializing OCR reader...
+2025-08-26 22:40:52,440 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-08-26 22:40:55,294 - INFO - OCR reader initialized successfully
+2025-08-26 22:40:55,295 - INFO - Processing single image: test.webp
+2025-08-26 22:40:55,307 - ERROR - Error processing test.webp: 'nms=0.45' is of invalid type float. 'nms' must be a bool (i.e. 'nms=True' or 'nms=False')
+2025-08-26 22:40:55,310 - INFO - Report saved to: runs\plate_detections\processing_report_20250826_224055.json
+2025-08-26 22:40:55,310 - INFO - Processing completed successfully!

@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-08-26T22:51:38.453540",
+  "configuration": {
+    "model_path": "best.pt",
+    "confidence_threshold": 0.25,
+    "iou_threshold": 0.45
+  },
+  "performance_metrics": {
+    "total_images_processed": 1,
+    "total_plates_detected": 1,
+    "total_processing_time": 0.8028018474578857,
+    "average_detection_time": 0.6939597129821777,
+    "average_ocr_time": 0.10884213447570801,
+    "ocr_success_rate": 0.0
+  },
+  "results": [
+    {
+      "image_path": "test.webp",
+      "plates_detected": 1,
+      "ocr_results": [
+        [
+          "1MAPA5627",
+          0.20999903807724787
+        ]
+      ],
+      "processing_time": 0.8128659725189209,
+      "detection_time": 0.6939597129821777,
+      "ocr_time": 0.10884213447570801,
+      "output_path": "runs\\plate_detections\\test_annotated.jpg"
+    }
+  ]
+}

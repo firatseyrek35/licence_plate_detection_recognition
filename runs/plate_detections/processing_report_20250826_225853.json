@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-08-26T22:58:53.024012",
+  "configuration": {
+    "model_path": "best.pt",
+    "confidence_threshold": 0.25,
+    "iou_threshold": 0.45
+  },
+  "performance_metrics": {
+    "total_images_processed": 1,
+    "total_plates_detected": 1,
+    "total_processing_time": 0.7565793991088867,
+    "average_detection_time": 0.7440624237060547,
+    "average_ocr_time": 0.012516975402832031,
+    "ocr_success_rate": 0.0
+  },
+  "results": [
+    {
+      "image_path": "test.webp",
+      "plates_detected": 1,
+      "ocr_results": [
+        [
+          "OCR hatası: local variable 'processed_img' referenced before assignment",
+          0.0
+        ]
+      ],
+      "processing_time": 0.7627370357513428,
+      "detection_time": 0.7440624237060547,
+      "ocr_time": 0.012516975402832031,
+      "output_path": "runs\\plate_detections\\test_annotated.jpg"
+    }
+  ]
+}
