@@ -261,8 +261,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/yourusername/license-plate-detection](https://github.com/yourusername/license-plate-detection)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/license-plate-detection/issues)
+- **Project Link**: [https://github.com/firatseyrek35/licence_plate_detection_recognition](https://github.com/firatseyrek35/licence_plate_detection_recognition)
+- **Issues**: [GitHub Issues](https://github.com/firatseyrek35/licence_plate_detection_recognition/issues)
 - **Email**: your.email@example.com
 
 ---
@@ -271,8 +271,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for Computer Vision & AI**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/license-plate-detection?style=social)](https://github.com/yourusername/license-plate-detection)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/license-plate-detection?style=social)](https://github.com/yourusername/license-plate-detection)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/license-plate-detection)](https://github.com/yourusername/license-plate-detection/issues)
+[![GitHub stars](https://img.shields.io/github/stars/firatseyrek35/licence_plate_detection_recognition?style=social)](https://github.com/firatseyrek35/licence_plate_detection_recognition)
+[![GitHub forks](https://img.shields.io/github/forks/firatseyrek35/licence_plate_detection_recognition?style=social)](https://github.com/firatseyrek35/licence_plate_detection_recognition)
+[![GitHub issues](https://img.shields.io/github/issues/firatseyrek35/licence_plate_detection_recognition)](https://github.com/firatseyrek35/licence_plate_detection_recognition/issues)
 
 </div>
+
